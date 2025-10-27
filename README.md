@@ -9,7 +9,7 @@ If you want to try the pre-built samples, download the binaries from the Release
 To build or modify patches yourself, follow these steps:
 
 1. **Install Prerequisites:**  
-   Install hvcc, the logue SDK, and [hvcc_nts3kaossi](https://github.com/boochow/hvcc_nts3kaoss).
+   Install hvcc, the logue SDK, and [hvcc_nts3kaoss](https://github.com/boochow/hvcc_nts3kaoss).
 
 2. **Clone the Repository:**  
    Copy this repository to your local machine:
