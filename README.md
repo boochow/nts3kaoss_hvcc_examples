@@ -41,6 +41,8 @@ To build or modify patches yourself, follow these steps:
 
 - **pd/genfx/AutoWah.pd** 
   An envelope follower modulates the VCF cutoff. 
+- **pd/genfx/GrnDly.pd** 
+  Four grains delay. 
 - **pd/oscfx/AMDrum.pd** 
   A sine oscillator modulates a square wave.
 - **pd/bgfx/CombResonator.pd** 
