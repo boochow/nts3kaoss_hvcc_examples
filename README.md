@@ -47,4 +47,3 @@ To build or modify patches yourself, follow these steps:
   A sine oscillator modulates a square wave.
 - **pd/bgfx/CombResonator.pd** 
   Stereo comb filter.
-- 
