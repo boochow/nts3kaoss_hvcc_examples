@@ -39,11 +39,11 @@ To build or modify patches yourself, follow these steps:
 
 ## Patch Descriptions
 
-- **pd/genfx/AutoWah.pd** 
+- **pd/bgfx/AutoWah.pd** 
   An envelope follower modulates the VCF cutoff. 
 - **pd/genfx/GrnDly.pd** 
   Four grains delay. 
 - **pd/oscfx/AMDrum.pd** 
   A sine oscillator modulates a square wave.
-- **pd/bgfx/CombResonator.pd** 
+- **pd/genfx/CombResonator.pd** 
   Stereo comb filter.
