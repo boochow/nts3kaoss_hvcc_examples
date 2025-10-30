@@ -4,7 +4,7 @@
 #X obj 74 624 dac~;
 #X obj 670 109 metro 80;
 #X obj 670 78 loadbang;
-#X obj 539 556 table noise_r 64 @hv_table;
+#X obj 539 556 table noise_r 4 @hv_table;
 #X obj 1153 453 *~;
 #X obj 1199 337 cos~;
 #X obj 1074 259 tabread~ noise_r;
